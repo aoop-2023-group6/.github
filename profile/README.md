@@ -12,7 +12,7 @@ Our Objective is to make(clone) a retro/stupid/.io game using pygame and then ad
 [Deep Q learning](https://medium.com/pyladies-taiwan/reinforcement-learning-%E9%80%B2%E9%9A%8E%E7%AF%87-deep-q-learning-26b10935a745)
 
 ### Starter Kit 
-We forked those game repos in our organization.  
+We have forked those game repos in our organization.  
 
 ### Tools / packages we may need
 - pygame
