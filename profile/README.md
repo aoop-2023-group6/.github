@@ -33,6 +33,7 @@ But they're not related to the project we decided so far, so we may do it from s
 
 ### To-dos
 - [x] Our objective (the game to make)
+- [ ] Skeleton
 - [ ] Description of this project
 - [ ] Multiplayer (LAN using sockets)
 - [ ] UML diagram
