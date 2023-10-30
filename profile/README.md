@@ -13,9 +13,17 @@ Our Objective is to make(clone) a retro/stupid/.io game using pygame and then ad
 ### Starter Kit 
 We forked those game repos in our organization.  
 
+### Tools / packages we may need
+- pygame
+- socket (built in tcp/udp or some other libraries)
+- sqlite (for database)
+- pytorch
+- ZeroTier (for LAN networking)
+
 ### To-dos
 - [ ] Our objective (the game to make)
 - [ ] Description of this project
 - [ ] Multiplayer (LAN using sockets)
 - [ ] UML diagram
+- [ ] meet PEP8 / add docstring / write tests 
 - [ ] AI npc
