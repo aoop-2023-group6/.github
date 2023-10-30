@@ -31,7 +31,7 @@ We have forked those game repos in our organization.
 - ZeroTier (for LAN networking)
 
 ### To-dos
-- [ ] Our objective (the game to make)
+- [x] Our objective (the game to make)
 - [ ] Description of this project
 - [ ] Multiplayer (LAN using sockets)
 - [ ] UML diagram
