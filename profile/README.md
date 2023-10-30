@@ -8,3 +8,4 @@ Our Objective is to make(clone) a retro/stupid/.io game using pygame and then ad
 - [ ] Description of this project
 - [ ] Multiplayer (LAN using sockets)
 - [ ] UML diagram
+- [ ] AI npc
