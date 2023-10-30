@@ -2,7 +2,7 @@
 Our Objective is to make(clone) a retro/stupid/.io game using pygame and then add some features to it(currently we want to add AI players using RL and make this game multiplayer thru LAN).  
 
 ### The games we choose so far
-- Boomerang Fu
+- boomerang.io
     - WASD
     - Sprint
     - Flash
