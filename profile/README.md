@@ -5,6 +5,8 @@ Our Objective is to make(clone) a retro/stupid/.io game using pygame and then ad
 [Tankwar](https://github.com/CharlesPikachu/Games/tree/master/cpgames/core/games/tankwar)
 [Football](https://github.com/CharlesPikachu/Games/tree/master/cpgames/core/games/bloodfootball)
 [Boomerang fu](https://www.youtube.com/watch?v=2xfgPGCdCBU)
+[Sword.io](https://github.com/codergautam/swordbattle.io?fbclid=IwAR2vRRDuaRNHPJH2v7DM0Br9vzpAZkwViEduoDyABFNB_KqFbyrg_kKRujM)
+
 ### To-dos
 - [ ] Our objective (the game to make)
 - [ ] Description of this project
