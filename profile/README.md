@@ -9,6 +9,7 @@ Our Objective is to make(clone) a retro/stupid/.io game using pygame and then ad
 
 ### RL related topics(we may implement it in this project)
 [Lunar Lander by OpenAI](https://medium.com/no-sliver-bullet/%E5%BC%B7%E5%8C%96%E5%AD%B8%E7%BF%92-reinforcement-learning-lunar-lander-v2-1291d48b71c3)  
+[Deep Q learning](https://medium.com/pyladies-taiwan/reinforcement-learning-%E9%80%B2%E9%9A%8E%E7%AF%87-deep-q-learning-26b10935a745)
 
 ### Starter Kit 
 We forked those game repos in our organization.  
