@@ -1,8 +1,8 @@
 ## Group 6 AOOP Project
-Our Objective is to make(clone) a retro/stupid/.io game using pygame and then add some features to it(currently we want to add AI players using RL and make this game multiplayer thru LAN).  
+Our objective is to make(clone) a retro/stupid/.io game using pygame and then add some features to it(currently we want to add AI players using RL and make this game multiplayer thru LAN).  
 
 ### The games we choose so far
-- boomerang.io  
+- boomerang.io(currently)  
     - WASD
     - Sprint
     - Flash
@@ -22,6 +22,7 @@ Our Objective is to make(clone) a retro/stupid/.io game using pygame and then ad
 
 ### Starter Kit 
 We have forked those game repos in our organization.  
+But they're not related to the project we decided so far, so we may do it from scratch.  
 
 ### Tools / packages we may need
 - pygame
@@ -36,4 +37,4 @@ We have forked those game repos in our organization.
 - [ ] Multiplayer (LAN using sockets)
 - [ ] UML diagram
 - [ ] meet PEP8 / add docstring / write tests 
-- [ ] AI npc
+- [ ] AI NPC
